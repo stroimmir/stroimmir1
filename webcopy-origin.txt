@@ -1,0 +1,228 @@
+Uri: https://www.instatrade.com/ua/invest
+File Name: F:\Инвестиции\site2\www.instatrade.com\ua\invest.html
+Content Type: text/html
+
+Uri: https://www.instatrade.com/i/fonts/sfuitext/SFUIText-Regular.ttf
+File Name: F:\Инвестиции\site2\www.instatrade.com\i\fonts\sfuitext\SFUIText-Regular.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.instatrade.com/i/fonts/sfuitext/SFUIText-Bold.ttf
+File Name: F:\Инвестиции\site2\www.instatrade.com\i\fonts\sfuitext\SFUIText-Bold.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.instatrade.com/i/fonts/sfprodisplay/SFProDisplay-Regular.ttf
+File Name: F:\Инвестиции\site2\www.instatrade.com\i\fonts\sfprodisplay\SFProDisplay-Regular.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.instatrade.com/i/fonts/sfprodisplay/SFProDisplay-Bold.ttf
+File Name: F:\Инвестиции\site2\www.instatrade.com\i\fonts\sfprodisplay\SFProDisplay-Bold.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.instatrade.com/i/img/investments/b1i8.png
+File Name: F:\Инвестиции\site2\www.instatrade.com\i\img\investments\b1i8.png
+Content Type: image/png
+
+Uri: https://www.instatrade.com/i/img/investments/b8i3.png
+File Name: F:\Инвестиции\site2\www.instatrade.com\i\img\investments\b8i3.png
+Content Type: image/png
+
+Uri: https://www.instatrade.com/i/img/investments/b8i4.png
+File Name: F:\Инвестиции\site2\www.instatrade.com\i\img\investments\b8i4.png
+Content Type: image/png
+
+Uri: https://www.instatrade.com/i/img/investments/b8i5.png
+File Name: F:\Инвестиции\site2\www.instatrade.com\i\img\investments\b8i5.png
+Content Type: image/png
+
+Uri: https://www.instatrade.com/i/img/investments/right_arrow.svg
+File Name: F:\Инвестиции\site2\www.instatrade.com\i\img\investments\right_arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://www.instatrade.com/i/img/investments/left_arrow.svg
+File Name: F:\Инвестиции\site2\www.instatrade.com\i\img\investments\left_arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://www.instatrade.com/i/css/flags/flags32.css
+File Name: F:\Инвестиции\site2\www.instatrade.com\i\css\flags\flags32.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.css
+File Name: F:\Инвестиции\site2\www.instatrade.com\ajax\libs\slick-carousel\1.8.1\slick.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.css
+File Name: F:\Инвестиции\site2\www.instatrade.com\ajax\libs\slick-carousel\1.8.1\slick-theme.css
+Content Type: text/css
+
+Uri: https://investsocial.com/?x=superdokpip&utm_source=Telegram&utm_campaign=superdok&utm_content=pip30
+File Name: F:\Инвестиции\site2\www.instatrade.com\index.htm
+Content Type: text/html
+
+Uri: https://www.instatrade.com/downloads/legal_documentation/privacy_policy_ru_instatrade.pdf
+File Name: F:\Инвестиции\site2\www.instatrade.com\downloads\legal_documentation\privacy_policy_ru_instatrade.pdf
+Content Type: application/pdf
+
+Uri: https://www.instatrade.com/downloads/legal_documentation/cookies_policy_instatrade.pdf
+File Name: F:\Инвестиции\site2\www.instatrade.com\downloads\legal_documentation\cookies_policy_instatrade.pdf
+Content Type: application/pdf
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/css/select2.css
+File Name: F:\Инвестиции\site2\www.instatrade.com\ajax\libs\select2\4.0.3\css\select2.css
+Content Type: text/css
+
+Uri: https://www.instatrade.com/i/css/flags/flags16.css
+File Name: F:\Инвестиции\site2\www.instatrade.com\i\css\flags\flags16.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.js
+File Name: F:\Инвестиции\site2\www.instatrade.com\ajax\libs\slick-carousel\1.8.1\slick.js
+Content Type: application/javascript
+
+Uri: https://static.criteo.net/js/ld/ld.js
+File Name: F:\Инвестиции\site2\www.instatrade.com\js\ld\ld.js
+Content Type: text/javascript
+
+Uri: https://www.instatrade.com/i/js/lib_cookie.js
+File Name: F:\Инвестиции\site2\www.instatrade.com\i\js\lib_cookie.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/ns.html?id=GTM-M28GK95
+File Name: F:\Инвестиции\site2\www.instatrade.com\ns.html
+Content Type: text/html
+
+Uri: https://www.instatrade.com/i/img/investments/hl1.png
+File Name: F:\Инвестиции\site2\www.instatrade.com\i\img\investments\hl1.png
+Content Type: image/png
+
+Uri: https://www.instatrade.com/i/img/investments/bhi1.png
+File Name: F:\Инвестиции\site2\www.instatrade.com\i\img\investments\bhi1.png
+Content Type: image/png
+
+Uri: https://www.instatrade.com/i/img/investments/b8i1.png
+File Name: F:\Инвестиции\site2\www.instatrade.com\i\img\investments\b8i1.png
+Content Type: image/png
+
+Uri: https://www.instatrade.com/i/img/investments/b2i1.png
+File Name: F:\Инвестиции\site2\www.instatrade.com\i\img\investments\b2i1.png
+Content Type: image/png
+
+Uri: https://www.instatrade.com/i/img/investments/b2i2.png
+File Name: F:\Инвестиции\site2\www.instatrade.com\i\img\investments\b2i2.png
+Content Type: image/png
+
+Uri: https://www.instatrade.com/i/img/investments/b2i3.png
+File Name: F:\Инвестиции\site2\www.instatrade.com\i\img\investments\b2i3.png
+Content Type: image/png
+
+Uri: https://www.instatrade.com/i/img/investments/b2i4.png
+File Name: F:\Инвестиции\site2\www.instatrade.com\i\img\investments\b2i4.png
+Content Type: image/png
+
+Uri: https://www.instatrade.com/i/img/investments/b2i5.png
+File Name: F:\Инвестиции\site2\www.instatrade.com\i\img\investments\b2i5.png
+Content Type: image/png
+
+Uri: https://google.com/recaptcha/api.js?hl=uk
+File Name: F:\Инвестиции\site2\www.instatrade.com\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.instatrade.com/i/img/investments/fl.png
+File Name: F:\Инвестиции\site2\www.instatrade.com\i\img\investments\fl.png
+Content Type: image/png
+
+Uri: https://www.instatrade.com/i/img/investments/awards/award-1.png
+File Name: F:\Инвестиции\site2\www.instatrade.com\i\img\investments\awards\award-1.png
+Content Type: image/png
+
+Uri: https://www.instatrade.com/i/img/investments/awards/award-2.png
+File Name: F:\Инвестиции\site2\www.instatrade.com\i\img\investments\awards\award-2.png
+Content Type: image/png
+
+Uri: https://www.instatrade.com/i/img/investments/awards/award-3.png
+File Name: F:\Инвестиции\site2\www.instatrade.com\i\img\investments\awards\award-3.png
+Content Type: image/png
+
+Uri: https://www.instatrade.com/i/img/investments/awards/award-4.png
+File Name: F:\Инвестиции\site2\www.instatrade.com\i\img\investments\awards\award-4.png
+Content Type: image/png
+
+Uri: https://www.instatrade.com/i/img/investments/awards/award-5.png
+File Name: F:\Инвестиции\site2\www.instatrade.com\i\img\investments\awards\award-5.png
+Content Type: image/png
+
+Uri: https://www.instatrade.com/i/img/investments/awards/award-6.png
+File Name: F:\Инвестиции\site2\www.instatrade.com\i\img\investments\awards\award-6.png
+Content Type: image/png
+
+Uri: https://www.instatrade.com/i/img/investments/awards/award-7.png
+File Name: F:\Инвестиции\site2\www.instatrade.com\i\img\investments\awards\award-7.png
+Content Type: image/png
+
+Uri: https://www.instatrade.com/i/img/investments/awards/award-8.png
+File Name: F:\Инвестиции\site2\www.instatrade.com\i\img\investments\awards\award-8.png
+Content Type: image/png
+
+Uri: https://www.instatrade.com/i/img/investments/awards/award-9.png
+File Name: F:\Инвестиции\site2\www.instatrade.com\i\img\investments\awards\award-9.png
+Content Type: image/png
+
+Uri: https://www.instatrade.com/i/img/investments/awards/award-10.png
+File Name: F:\Инвестиции\site2\www.instatrade.com\i\img\investments\awards\award-10.png
+Content Type: image/png
+
+Uri: https://www.instatrade.com/i/img/investments/awards/award-11.png
+File Name: F:\Инвестиции\site2\www.instatrade.com\i\img\investments\awards\award-11.png
+Content Type: image/png
+
+Uri: https://www.instatrade.com/i/img/investments/sponsors/sponsor-1.png
+File Name: F:\Инвестиции\site2\www.instatrade.com\i\img\investments\sponsors\sponsor-1.png
+Content Type: image/png
+
+Uri: https://www.instatrade.com/i/img/investments/sponsors/sponsor-2.png
+File Name: F:\Инвестиции\site2\www.instatrade.com\i\img\investments\sponsors\sponsor-2.png
+Content Type: image/png
+
+Uri: https://www.instatrade.com/i/img/investments/sponsors/sponsor-3.png
+File Name: F:\Инвестиции\site2\www.instatrade.com\i\img\investments\sponsors\sponsor-3.png
+Content Type: image/png
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js
+File Name: F:\Инвестиции\site2\www.instatrade.com\ajax\libs\jquery\3.6.0\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/select2@4.0.3/dist/js/select2.min.js
+File Name: F:\Инвестиции\site2\www.instatrade.com\npm\select2@4.0.3\dist\js\select2.min.js
+Content Type: application/javascript
+
+Uri: https://www.instatrade.com/i/js/modernizr.min.js
+File Name: F:\Инвестиции\site2\www.instatrade.com\i\js\modernizr.min.js
+Content Type: application/javascript
+
+Uri: https://www.instatrade.com/i/js/mailcheck.min.js
+File Name: F:\Инвестиции\site2\www.instatrade.com\i\js\mailcheck.min.js
+Content Type: application/javascript
+
+Uri: https://www.instatrade.com/i/js/mailcheck_settings.js?v3
+File Name: F:\Инвестиции\site2\www.instatrade.com\i\js\mailcheck_settings.js
+Content Type: application/javascript
+
+Uri: https://www.instatrade.com/i/js/miniinput_mask.js
+File Name: F:\Инвестиции\site2\www.instatrade.com\i\js\miniinput_mask.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/ui/1.12.1/jquery-ui.js
+File Name: F:\Инвестиции\site2\www.instatrade.com\ui\1.12.1\jquery-ui.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.js
+File Name: F:\Инвестиции\site2\www.instatrade.com\ajax\libs\slick-carousel\1.6.0\slick.min.js
+Content Type: application/javascript
+
+Uri: https://www.instatrade.com/i/js/konva.min.js
+File Name: F:\Инвестиции\site2\www.instatrade.com\i\js\konva.min.js
+Content Type: application/javascript
+
+Uri: https://www.instaspot.com/ua/?utm_source=Telegram&utm_campaign=superdok&utm_content=pip30
+File Name: F:\Инвестиции\site2\www.instatrade.com\ua\index.htm
+Content Type: text/html
+
